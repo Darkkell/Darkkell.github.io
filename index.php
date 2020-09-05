@@ -1,4 +1,6 @@
-<link href="/header.html" rel="import" />
+<?php
+  include './header.php'
+?>
 
 <!doctype html>
 <html lang="en">
@@ -22,5 +24,3 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
   </body>
 </html>
-
-<link href="/footer.html" rel="import" />
